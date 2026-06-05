@@ -1,6 +1,6 @@
-streamlit
-folium
-streamlit-folium
-pandas
-matplotlib
-streamlit-autorefresh
+streamlit>=1.28.0
+folium>=0.14.0
+streamlit-folium>=0.15.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+streamlit-autorefresh>=1.0.0
